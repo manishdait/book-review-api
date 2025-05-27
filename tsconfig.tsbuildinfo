@@ -1,0 +1,1 @@
+{"root":["./src/server.ts","./src/config/config.ts","./src/middleware/authMiddleware.ts","./src/model/book.ts","./src/model/review.ts","./src/model/user.ts","./src/router/bookRouter.ts","./src/router/reviewRouter.ts","./src/router/userRouter.ts","./src/service/bookService.ts","./src/service/reviewService.ts","./src/service/userService.ts"],"version":"5.8.3"}
